@@ -1,0 +1,7 @@
+button{     /*按鈕的樣式*/
+    padding: 10px;
+    color:rgb(24, 24, 168);
+    border: 1px rgb(24, 24, 168) solid  ;
+    background-color:rgb(245, 241, 242);
+    border-radius: 5px;
+}
